@@ -1,0 +1,15 @@
+{
+	"/": [],
+	"/api/getlinks": [
+		"src/routes/api/getlinks/+server.ts"
+	],
+	"/api/post-sicns-dalux": [
+		"src/routes/api/post-sicns-dalux/+server.ts"
+	],
+	"/api/post": [
+		"src/routes/api/post/+server.ts"
+	],
+	"/getData/[slug]": [
+		"src/routes/getData/[slug]/+page.ts"
+	]
+}

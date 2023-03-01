@@ -1,0 +1,77 @@
+{
+	"data": {
+		"ID": 0,
+		"workOrderNumber": 0,
+		"name": "Test  03 Hallazgo IF API",
+		"status": "Nuevo",
+		"templateID": 1053,
+		"teamID": 9,
+		"responsible": "support@dalux.com",
+		"description": "descripción hallazgo if",
+		"priorityID": 1,
+		"type": "Hallazgo",
+		"buildingID": null,
+		"roomID": null,
+		"assetID": null,
+		"assetIDs": null,
+		"gps": "0;0",
+		"placementDescription": "",
+		"deadline": "2023-02-20T12:00:00Z",
+		"duration": 6,
+		"createdDate": null,
+		"closedDate": null,
+		"expectedCost": 0,
+		"accountName": null,
+		"accountNumber": null,
+		"lastChange": null,
+		"expectedExecutionDate": null,
+		"history": null,
+		"userDefinedFields": [
+			{
+				"name": "KM Inicial",
+				"value": "10"
+			},
+			{
+				"name": "KM Final",
+				"value": "11"
+			},
+			{
+				"name": "Fecha Detección",
+				"value": "2023-02-17"
+			},
+			{
+				"name": "Elemento",
+				"value": "IDAssetBIM"
+			},
+			{
+				"name": "Problema",
+				"value": "Probleamtica IF"
+			},
+			{
+				"name": "Indicador",
+				"value": "PAV-E1"
+			},
+			{
+				"name": "Exigencia",
+				"value": "Alta"
+			},
+			{
+				"name": "ID SIC-NS",
+				"value": "13000444"
+			},
+			{
+				"name": "Fecha Limite de Corrección",
+				"value": "2023-02-21"
+			},
+			{
+				"name": "Macroubicación",
+				"value": "1"
+			},
+			{
+				"name": "URLSICNS",
+				"value": "1"
+			}
+		]
+	},
+	"links": ["https://imgur.com/gallery/dvCxX", "https://imgur.com/gallery/49cER4j"]
+}
